@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  guestbook-demo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-09-15T14:30:40.613847+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 3af8066d916f8f765535c3a1fe9cff0007081d68c4d5e7ac261072571b63455a
+    name: guestbook-demo
+    type: application
+    urls:
+    - guestbook-demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-09-15T14:30:40.6048753+01:00"
